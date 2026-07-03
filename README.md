@@ -40,6 +40,8 @@ That's it. No API keys. No config. Just paste and go.
 ## Who it's for
 
 Founders, designers, and engineers who are building products but never studied business. The kind of people who can ship the thing but want to think about it more strategically.
+Claude adapts to your location automatically. Want news from a different region? Just tell it: 'focus on Asian markets' or 'more EU news'.
+
 
 ## Philosophy
 
